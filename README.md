@@ -1,8 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm David Daganzo</h1>
- <p align="center">
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/111656828/214817764-4b95cb75-28e3-40da-95a3-e09235779dc2.png" alt="my banner"></a>
+<p align="center">
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/111656828/214817764-4b95cb75-28e3-40da-95a3-e09235779dc2.png" alt="my banner" style="width: 100%;">
+  </a>
 </p>
+
 <h3 align="center">A passionate Full Stack Developer from Madrid,Spain</h3>
 
 - 📝 I have developed pages like: [Cura-reserve](https://cura-reserve.netlify.app/)
