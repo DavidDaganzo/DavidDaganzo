@@ -5,7 +5,7 @@
 
 
 ## 📈 GitHub Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lagaress&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J2PQ&show_icons=true&theme=tokyonight)
 
 ## ⌨️ Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lagaress&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J2PQ&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
