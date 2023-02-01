@@ -3,7 +3,6 @@
 
  <img src="https://user-images.githubusercontent.com/111656828/214825146-802c3327-9530-4dfd-9cb8-b6a523b203e4.png" alt="my banner" style="width: 100%;">
  
-
 <h3 align="center">A passionate Full Stack Developer from Madrid,Spain</h3>
 
 - 📝 I have developed pages like: [Cura-reserve](https://cura-reserve.netlify.app/)
