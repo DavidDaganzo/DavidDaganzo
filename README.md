@@ -7,6 +7,8 @@
 
 - 📝 I have developed pages like: [Cura-reserve](https://cura-reserve.netlify.app/)
 
+- 📝 I have developed pages like: [Ima-text](https://ima-text.netlify.app/)
+
 - 📝 I have developed pages like: [Gold-events](https://gold--events.fly.dev/)
 
 - 📝 I have developed video games like: [Dev-invaders](https://devinvaders-proyect.vercel.app/)
