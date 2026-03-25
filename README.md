@@ -17,7 +17,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Barbería SaaS](https://barbermaster.vercel.app/) | Plataforma completa para gestión de barberías con reservas y pagos online | React, TypeScript, Node.js |
+| [Barbería SaaS](https://barbermaster.vercel.app/) | Plataforma completa para gestión de barberías con reservas y pagos online | React, TypeScript, Supabase |
 | [Ima-Text](https://ima-text.netlify.app/) | Generador de imágenes con Inteligencia Artificial a partir de texto | React, Node.js, MongoDB |
 | [Cura Reserve](https://cura-reserve.netlify.app/) | Plataforma de reservas de apartamentos y hoteles | React, Express.js, MongoDB |
 | [Gold Events](https://gold--events.fly.dev/) | Servicio de compra de entradas para eventos con roles de usuario | Express.js, Node.js, MongoDB |
