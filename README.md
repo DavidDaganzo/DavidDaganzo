@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Daganzo</h1>
- <img src="https://user-images.githubusercontent.com/111656828/214825146-802c3327-9530-4dfd-9cb8-b6a523b203e4.png" alt="my banner" style="width: 100%;">
 <h3 align="center">Full Stack Developer · +3 years building web apps with React, TypeScript and Node.js</h3>
+ <img src="https://user-images.githubusercontent.com/111656828/214825146-802c3327-9530-4dfd-9cb8-b6a523b203e4.png" alt="my banner" style="width: 100%;">
+
 
 ---
 
@@ -16,7 +17,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Barbería SaaS](en desarrollo) | Plataforma completa para gestión de barberías con reservas y pagos online | React, TypeScript, Node.js |
+| [Barbería SaaS](https://barbermaster.vercel.app/) | Plataforma completa para gestión de barberías con reservas y pagos online | React, TypeScript, Node.js |
 | [Ima-Text](https://ima-text.netlify.app/) | Generador de imágenes con Inteligencia Artificial a partir de texto | React, Node.js, MongoDB |
 | [Cura Reserve](https://cura-reserve.netlify.app/) | Plataforma de reservas de apartamentos y hoteles | React, Express.js, MongoDB |
 | [Gold Events](https://gold--events.fly.dev/) | Servicio de compra de entradas para eventos con roles de usuario | Express.js, Node.js, MongoDB |
