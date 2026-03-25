@@ -1,30 +1,59 @@
-
 <h1 align="center">Hi 👋, I'm David Daganzo</h1>
-
  <img src="https://user-images.githubusercontent.com/111656828/214825146-802c3327-9530-4dfd-9cb8-b6a523b203e4.png" alt="my banner" style="width: 100%;">
- 
-<h3 align="center">A passionate Full Stack Developer from Madrid,Spain</h3>
+<h3 align="center">Full Stack Developer · +3 years building web apps with React, TypeScript and Node.js</h3>
 
-- 📝 I have developed pages like: [Territorio-ahorro](https://territorio-ahorro.web.app/)
+---
 
-- 📝 I have developed pages like: [Cura-reserve](https://cura-reserve.netlify.app/)
+🔭 Currently working at **CTI Soluciones** — developing scalable web platforms with React, TypeScript and GraphQL  
+🌱 Currently learning **AI-assisted development** and exploring Claude Code  
+💬 Ask me about **React, TypeScript, Node.js, GraphQL or MongoDB**  
+📫 Reach me at **daviddaganzofraile@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/david-daganzo-fraile/)
 
-- 📝 I have developed pages like: [Ima-text](https://ima-text.netlify.app/)
+---
 
-- 📝 I have developed pages like: [Gold-events](https://gold--events.fly.dev/)
+## 🚀 Projects
 
-- 📝 I have developed video games like: [Dev-invaders](https://devinvaders-proyect.vercel.app/)
+| Project | Description | Stack |
+|---|---|---|
+| [Barbería SaaS](en desarrollo) | Plataforma completa para gestión de barberías con reservas y pagos online | React, TypeScript, Node.js |
+| [Ima-Text](https://ima-text.netlify.app/) | Generador de imágenes con Inteligencia Artificial a partir de texto | React, Node.js, MongoDB |
+| [Cura Reserve](https://cura-reserve.netlify.app/) | Plataforma de reservas de apartamentos y hoteles | React, Express.js, MongoDB |
+| [Gold Events](https://gold--events.fly.dev/) | Servicio de compra de entradas para eventos con roles de usuario | Express.js, Node.js, MongoDB |
+| [Dev Invaders](https://devinvaders-proyect.vercel.app/) | Videojuego arcade inspirado en Space Invaders | JavaScript, HTML5, CSS3 |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/david-daganzo-fraile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-daganzo-fraile/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
 
-## 📈 GitHub Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidDaganzo&show_icons=true&theme=tokyonight)
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-## ⌨️ Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDaganzo&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+
+**Bases de datos**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+
+**DevOps & Herramientas**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidDaganzo&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDaganzo&layout=compact&theme=tokyonight)](https://github.com/DavidDaganzo)
